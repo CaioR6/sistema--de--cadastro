@@ -2,7 +2,7 @@
 
 > Status do projeto em desenvolvimento:
 
-> Para rodae esse projeto em sua máquina, por faor digite:
+> Para rodae esse projeto em sua máquina, por favor digite:
 
 ```
 npm install
